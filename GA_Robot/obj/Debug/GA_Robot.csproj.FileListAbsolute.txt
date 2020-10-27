@@ -1,0 +1,30 @@
+D:\Администратор\Задания\GA_Robot\GA_Robot\bin\Debug\GA_Robot.exe.config
+D:\Администратор\Задания\GA_Robot\GA_Robot\bin\Debug\GA_Robot.exe
+D:\Администратор\Задания\GA_Robot\GA_Robot\bin\Debug\GA_Robot.pdb
+D:\Администратор\Задания\GA_Robot\GA_Robot\obj\Debug\GA_Robot.csprojAssemblyReference.cache
+D:\Администратор\Задания\GA_Robot\GA_Robot\obj\Debug\GA_Robot.Form1.resources
+D:\Администратор\Задания\GA_Robot\GA_Robot\obj\Debug\GA_Robot.Properties.Resources.resources
+D:\Администратор\Задания\GA_Robot\GA_Robot\obj\Debug\GA_Robot.csproj.GenerateResource.cache
+D:\Администратор\Задания\GA_Robot\GA_Robot\obj\Debug\GA_Robot.csproj.CoreCompileInputs.cache
+D:\Администратор\Задания\GA_Robot\GA_Robot\obj\Debug\GA_Robot.exe
+D:\Администратор\Задания\GA_Robot\GA_Robot\obj\Debug\GA_Robot.pdb
+D:\Администратор\Задания\GA_Robot(C#, генетический алгоритм, путь робота)\GA_Robot\bin\Debug\GA_Robot.exe.config
+D:\Администратор\Задания\GA_Robot(C#, генетический алгоритм, путь робота)\GA_Robot\bin\Debug\GA_Robot.exe
+D:\Администратор\Задания\GA_Robot(C#, генетический алгоритм, путь робота)\GA_Robot\bin\Debug\GA_Robot.pdb
+D:\Администратор\Задания\GA_Robot(C#, генетический алгоритм, путь робота)\GA_Robot\obj\Debug\GA_Robot.csprojAssemblyReference.cache
+D:\Администратор\Задания\GA_Robot(C#, генетический алгоритм, путь робота)\GA_Robot\obj\Debug\GA_Robot.Form1.resources
+D:\Администратор\Задания\GA_Robot(C#, генетический алгоритм, путь робота)\GA_Robot\obj\Debug\GA_Robot.Properties.Resources.resources
+D:\Администратор\Задания\GA_Robot(C#, генетический алгоритм, путь робота)\GA_Robot\obj\Debug\GA_Robot.csproj.GenerateResource.cache
+D:\Администратор\Задания\GA_Robot(C#, генетический алгоритм, путь робота)\GA_Robot\obj\Debug\GA_Robot.csproj.CoreCompileInputs.cache
+D:\Администратор\Задания\GA_Robot(C#, генетический алгоритм, путь робота)\GA_Robot\obj\Debug\GA_Robot.exe
+D:\Администратор\Задания\GA_Robot(C#, генетический алгоритм, путь робота)\GA_Robot\obj\Debug\GA_Robot.pdb
+D:\Администратор\Задания\GA_Robot(C#, генетический алгоритм, путь робота 2)\GA_Robot\bin\Debug\GA_Robot.exe.config
+D:\Администратор\Задания\GA_Robot(C#, генетический алгоритм, путь робота 2)\GA_Robot\bin\Debug\GA_Robot.exe
+D:\Администратор\Задания\GA_Robot(C#, генетический алгоритм, путь робота 2)\GA_Robot\bin\Debug\GA_Robot.pdb
+D:\Администратор\Задания\GA_Robot(C#, генетический алгоритм, путь робота 2)\GA_Robot\obj\Debug\GA_Robot.csprojAssemblyReference.cache
+D:\Администратор\Задания\GA_Robot(C#, генетический алгоритм, путь робота 2)\GA_Robot\obj\Debug\GA_Robot.Form1.resources
+D:\Администратор\Задания\GA_Robot(C#, генетический алгоритм, путь робота 2)\GA_Robot\obj\Debug\GA_Robot.Properties.Resources.resources
+D:\Администратор\Задания\GA_Robot(C#, генетический алгоритм, путь робота 2)\GA_Robot\obj\Debug\GA_Robot.csproj.GenerateResource.cache
+D:\Администратор\Задания\GA_Robot(C#, генетический алгоритм, путь робота 2)\GA_Robot\obj\Debug\GA_Robot.csproj.CoreCompileInputs.cache
+D:\Администратор\Задания\GA_Robot(C#, генетический алгоритм, путь робота 2)\GA_Robot\obj\Debug\GA_Robot.exe
+D:\Администратор\Задания\GA_Robot(C#, генетический алгоритм, путь робота 2)\GA_Robot\obj\Debug\GA_Robot.pdb
